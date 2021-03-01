@@ -1,7 +1,7 @@
 Hello Word  👋
 
 <img  src="https://media3.giphy.com/media/iGpHt2H22k1orjgT9b/200w.webp?cid=ecf05e47g8ojodp8ziu8y1abc4kpczr4yrn57uw1r6ugpsf4&rid=200w.webp">
-<img  width="250px" src="https://media3.giphy.com/media/yHI4yDBgzBvA4/giphy.gif?cid=ecf05e472ajsbcl26v4f5tkt0lvklaw6aerdkg5q2yivfspj&rid=giphy.gif">
+<img align = "right" width="250px" src="https://media3.giphy.com/media/yHI4yDBgzBvA4/giphy.gif?cid=ecf05e472ajsbcl26v4f5tkt0lvklaw6aerdkg5q2yivfspj&rid=giphy.gif">
 
 
 
