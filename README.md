@@ -1,7 +1,7 @@
 Hello Word  👋
 
-<img src="https://media3.giphy.com/media/iGpHt2H22k1orjgT9b/200w.webp?cid=ecf05e47g8ojodp8ziu8y1abc4kpczr4yrn57uw1r6ugpsf4&rid=200w.webp">
-<img align="right" width="500px" src="https://media3.giphy.com/media/yHI4yDBgzBvA4/giphy.gif?cid=ecf05e472ajsbcl26v4f5tkt0lvklaw6aerdkg5q2yivfspj&rid=giphy.gif">
+<img align="right" src="https://media3.giphy.com/media/iGpHt2H22k1orjgT9b/200w.webp?cid=ecf05e47g8ojodp8ziu8y1abc4kpczr4yrn57uw1r6ugpsf4&rid=200w.webp">
+<img align="right" width="350px" src="https://media3.giphy.com/media/yHI4yDBgzBvA4/giphy.gif?cid=ecf05e472ajsbcl26v4f5tkt0lvklaw6aerdkg5q2yivfspj&rid=giphy.gif">
 
 
 
@@ -13,7 +13,7 @@ Hello Word  👋
                                                                                                                                      
 - 🎯 Ler e jogar futebol são meus hobbys preferidos.
 
-Você pode me encontrar nas redes:
+- 💻 Você pode me encontrar nas redes:
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-monteiro-2b6a79207/)       [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brgabriel.monteiro@gmail.com)](mailto:brgabriel.monteiro@gmail.com)
 
 
