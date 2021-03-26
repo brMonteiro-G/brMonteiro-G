@@ -1,7 +1,7 @@
    Hello World  👋
 
 
-<img align = "right" width="250px" src="https://media3.giphy.com/media/iGpHt2H22k1orjgT9b/200w.webp?cid=ecf05e47g8ojodp8ziu8y1abc4kpczr4yrn57uw1r6ugpsf4&rid=200w.webp">
+<img align = "right" width="230px" src="https://media3.giphy.com/media/iGpHt2H22k1orjgT9b/200w.webp?cid=ecf05e47g8ojodp8ziu8y1abc4kpczr4yrn57uw1r6ugpsf4&rid=200w.webp">
 
 
 <p align="left">
