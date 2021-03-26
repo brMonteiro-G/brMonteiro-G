@@ -17,20 +17,26 @@ Hello World  👋
 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-monteiro-2b6a79207/)       [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brgabriel.monteiro@gmail.com)](mailto:brgabriel.monteiro@gmail.com)
 
 
-# Tools and GitHub Stats <img src="https://media.giphy.com/media/fvT2uzkzsSWmmkvl5g/giphy.gif" width="40px">
+# Tools and GitHub Stats 
  
+#### Conhecimento nas linguagens:
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-![Java](https://camo.githubusercontent.com/e17e119d8c9bb34ac9710be65d35d52a7e04cc260476760305525204df5f34b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d6a617661)
-![Spring](https://camo.githubusercontent.com/d8f7e93bdb728c656b784b48c9229b2224067c147978e345773f21c0ac43f324/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d537072696e672d3644423333463f7374796c653d666c61742d737175617265266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465)
-![MySQL](https://camo.githubusercontent.com/4eade77f6242a74645c408f1cc48b4c05f3c7c8a74d0bf15c2a1e259e4d357d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d3434373941313f7374796c653d666c61742d737175617265266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465)
-![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https:https://github.com/analivia1709)](https://github.com/analivia1709)
-![Eclipse](https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465)
-
-
-<div align="left">
-<img margin-bottom="120px" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brMonteiro-G&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=brMonteiro-G&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" />
-</div>
-<!--
+#### Conhecimento nas tecnologias:
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brMonteiro-G&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=brMonteiro-G&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
