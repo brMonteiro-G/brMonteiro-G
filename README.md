@@ -11,7 +11,7 @@
                                                                                                                    
 - 🚀 Apaixonado por ciência e tecnologia. 
                                                                                                                                
-- 🌌 Vestibulando de física, técnico mecatrônico e desenvolvedor full stack. 
+- 🌌 Estudante de análise e desenvolvimento de sistemas, técnico mecatrônico e desenvolvedor full stack. 
                                                                                                                                      
 - 🎯 Ler e jogar futebol são meus hobbys preferidos.
 
