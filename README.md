@@ -24,7 +24,6 @@
 # Tools and GitHub Stats 
  
 #### Conhecimento nas linguagens:
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -41,6 +40,6 @@
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brMonteiro-G&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=brMonteiro-G&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="center"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brMonteiro-G&layout=compact&theme=vision-friendly-dark" />
+ <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=brMonteiro-G&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 
