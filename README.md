@@ -11,7 +11,7 @@
                                                                                                                    
 - 🚀 Apaixonado por ciência e tecnologia. 
                                                                                                                                
-- 🌌 Estudante de análise e desenvolvimento de sistemas, técnico mecatrônico e desenvolvedor full stack. 
+- 🌌 Estudante de ciências da computação, técnico mecatrônico e desenvolvedor full stack. 
                                                                                                                                      
 - 🎯 Ler e jogar futebol são meus hobbys preferidos.
 
